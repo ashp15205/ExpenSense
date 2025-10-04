@@ -103,8 +103,7 @@ This project delivers a **secure and automated expense management system** with 
 
 - **Frontend:** React, Redux, HTML, CSS  
 - **Backend:** PostgreSQL  
-- **Authentication:** JWT (JSON Web Token)  
-- **Hosting:** (Previously on Heroku – alternatives to be explored)  
+- **Authentication:** JWT (JSON Web Token)
 
 ---
 
