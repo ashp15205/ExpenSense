@@ -1,4 +1,4 @@
-# 💰 Expense Management Software  
+<img width="1792" height="1037" alt="134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913" src="https://github.com/user-attachments/assets/bc55de80-cb1c-486c-bb86-51a9b98546d0" /># 💰 Expense Management Software  
 
 **Coded By:** *Ashish Patil*  
 
@@ -54,7 +54,8 @@ This project delivers a **secure and automated expense management system** with 
 - Alerts for invalid credentials.  
 - Redirects to **Home Page** on success.  
 
-![Login](https://user-images.githubusercontent.com/39689610/134283484-079f6b2d-b04b-4970-a49f-74d42c43ee76.png)  
+ <img width="1792" height="553" alt="134283484-079f6b2d-b04b-4970-a49f-74d42c43ee76" src="https://github.com/user-attachments/assets/9957626e-e3ae-48b8-a565-ab1628dd0a95" />
+
 
 ---
 
@@ -62,7 +63,8 @@ This project delivers a **secure and automated expense management system** with 
 - Admin → **Admin Options → Add Employee**.  
 - Enter employee details → validate → submit.  
 
-![Add Employee](https://user-images.githubusercontent.com/39689610/134284524-cb84f266-5317-4098-9f28-4506b2bd379b.png)  
+<img width="1792" height="1037" alt="134284524-cb84f266-5317-4098-9f28-4506b2bd379b" src="https://github.com/user-attachments/assets/5e9c7f50-62b2-48e9-a8b7-f519e19cfbb6" />
+
 
 ---
 
@@ -72,7 +74,8 @@ This project delivers a **secure and automated expense management system** with 
   - New password ≠ old password.  
   - New password = Confirm password.  
 
-![Change Password](https://user-images.githubusercontent.com/39689610/134287005-2dfcb3a4-7c57-4f9a-9061-f3f631328771.png)  
+<img width="1792" height="1037" alt="134287005-2dfcb3a4-7c57-4f9a-9061-f3f631328771" src="https://github.com/user-attachments/assets/0ba90f5b-9ad5-419c-bf4f-f472999dc9d9" />
+
 
 ---
 
@@ -81,7 +84,8 @@ This project delivers a **secure and automated expense management system** with 
 - Assign Project Manager & team members.  
 - View project dashboards and summaries.  
 
-![Projects](https://user-images.githubusercontent.com/39689610/134298814-e48f7974-0cb6-4be5-907f-5f4d8a735ec1.png)  
+<img width="1792" height="1041" alt="134298814-e48f7974-0cb6-4be5-907f-5f4d8a735ec1" src="https://github.com/user-attachments/assets/394baeaf-54a6-4d91-b20d-df7d6e0cdf1b" />
+
 
 ---
 
@@ -90,7 +94,7 @@ This project delivers a **secure and automated expense management system** with 
 - Edit / delete expenses anytime.  
 - Attachments viewable in dashboard.  
 
-![Expenses](https://user-images.githubusercontent.com/39689610/134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913.png)  
+<img width="1792" height="1037" alt="134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913" src="https://github.com/user-attachments/assets/2522463e-807e-4ec5-9f03-81d7870cb22e" />
 
 ---
 
@@ -100,21 +104,8 @@ This project delivers a **secure and automated expense management system** with 
   - Project Managers → approve team expenses.  
   - Administrators → approve all expenses.  
 
-![Approvals](https://user-images.githubusercontent.com/39689610/134315047-9374f82d-ffbc-4653-9705-e8982e265245.png)  
+<img width="1792" height="1043" alt="134315047-9374f82d-ffbc-4653-9705-e8982e265245" src="https://github.com/user-attachments/assets/8f0e4231-031f-4fd0-8ed9-a18b7afc8d91" />
 
----
-
-### 👨‍💻 Employees List  
-- View all employees and their roles.  
-
-![Employees](https://user-images.githubusercontent.com/39689610/134306610-3ffb0faa-fb4f-4980-9db5-297264f3acc2.png)  
-
----
-
-### 🚪 Logout  
-- Secure logout option available in navbar.  
-
-![Logout](https://user-images.githubusercontent.com/39689610/134325677-c85c12e3-1aff-48f3-b8b0-55e7ced7e688.png)  
 
 ---
 
