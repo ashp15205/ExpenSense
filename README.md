@@ -1,13 +1,10 @@
 # Expense Management Software
 ```
-Coded By: Rishabh Srivastava, Akash Yalla, Kanika Gupta
+Coded By: Ashish Patil
 ```
 In these times of digitalization, all major organizations are aiming to automate most of their processes for better convenience. One important task for an organization involves the filing of expenses by employees for claiming reimbursements. These expenses also need to be approved / rejected by the appropriate authority.
 
-A web application based on **react-redux** at the frontend and **Java** and **PostgreSQL** at the backend has been built to provide an automated solution to record and report business expenses.
-
-
-**UPDATE (28 Nov 2022)**: 
+A web application based on **react-redux** at the frontend and **PostgreSQL** at the backend has been built to provide an automated solution to record and report business expenses.
 
 The link is not accessible anymore as Heroku, where the project was hosted, has stopped its Free Product plans. I might find an alternative sometime in the future and would update the README accordingly.
 
