@@ -108,7 +108,7 @@ This project delivers a **secure and automated expense management system** with 
 ---
 
 ## 📌 Future Improvements  
-- Deploy to Render / Vercel / Railway (Heroku free plan discontinued).  
+- Deploy to Render or Vercel   
 - Add analytics dashboard for expense trends.  
 - Multi-currency support.  
 
