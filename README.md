@@ -2,9 +2,8 @@
 
 **Coded By:** *Ashish Patil*  
 
-> A full-stack web application built with **React + Redux** (frontend) and **PostgreSQL** (backend) to automate expense filing, approvals, and reporting within organizations.  
 
----
+<img width="911" height="508" alt="image" src="https://github.com/user-attachments/assets/ef16249c-a9f1-41c6-860e-1b1b103662ad" />
 
 ## 🚀 Overview  
 In today’s digital world, organizations aim to automate most processes for **efficiency and transparency**.  
