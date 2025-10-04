@@ -1,5 +1,4 @@
 # 💰 Expense Management Software
-<img width="1792" height="1037" alt="134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913" src="https://github.com/user-attachments/assets/bc55de80-cb1c-486c-bb86-51a9b98546d0" />  
 
 **Coded By:** *Ashish Patil*  
 
