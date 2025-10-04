@@ -1,4 +1,5 @@
-<img width="1792" height="1037" alt="134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913" src="https://github.com/user-attachments/assets/bc55de80-cb1c-486c-bb86-51a9b98546d0" /># 💰 Expense Management Software  
+# 💰 Expense Management Software
+<img width="1792" height="1037" alt="134308592-ff366ac8-ccf0-4e79-b7c3-324cc4a01913" src="https://github.com/user-attachments/assets/bc55de80-cb1c-486c-bb86-51a9b98546d0" />  
 
 **Coded By:** *Ashish Patil*  
 
@@ -48,16 +49,6 @@ This project delivers a **secure and automated expense management system** with 
 ---
 
 ## 🖥️ Demonstration  
-
-### 🔑 Login Page  
-- Email format validation.  
-- Alerts for invalid credentials.  
-- Redirects to **Home Page** on success.  
-
- <img width="1792" height="553" alt="134283484-079f6b2d-b04b-4970-a49f-74d42c43ee76" src="https://github.com/user-attachments/assets/9957626e-e3ae-48b8-a565-ab1628dd0a95" />
-
-
----
 
 ### 👨‍💼 Adding Employees (Admin Only)  
 - Admin → **Admin Options → Add Employee**.  
