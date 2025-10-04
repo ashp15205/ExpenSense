@@ -6,7 +6,6 @@ In these times of digitalization, all major organizations are aiming to automate
 
 A web application based on **react-redux** at the frontend and **Java** and **PostgreSQL** at the backend has been built to provide an automated solution to record and report business expenses.
 
-This repository includes all the codes which the [Expense Management System](https://expense-management-system-rs.herokuapp.com/) website uses.
 
 **UPDATE (28 Nov 2022)**: 
 
@@ -231,19 +230,4 @@ User can log out by as shown in the following images -
 </kbd>
 </div>
 <br>
- 
-## User Profiles for Demo
-You can use the following credentials to view a demonstration of the software - 
-<ul>
-  <li> <b>Email</b>: rishabh@gmail.com, <b>Password</b>: 1234, <b>Role</b>: Administrator
-  <li> <b>Email</b>: jdoe@gmail.com, <b>Password</b>: @Expense123, <b>Role</b>: Project Manager
-  <li> <b>Email</b>: jndoe@gmail.com, <b>Password</b>: @Expense123, <b>Role</b>: Software Development Engineer
-  <li> <b>Email</b>: avi@gmail.com, <b>Password</b>: 1234, <b>Role</b>: Software Development Engineer <i>(It is a new user logging in for the first time)</i>
-</ul> 
-
-## Notes
-1. The **backend code** for this project can be accessed at this [repo](https://github.com/RishabhS66/Expense-Management-Software-Backend).<br>
-2. Both the frontend and backend components of the project have been hosted at [Heroku](https://www.heroku.com/). <br>
-3. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
